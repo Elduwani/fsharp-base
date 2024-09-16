@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w+fTJOdeIbeODPT+AdszqojmngUbeOalwiGJ8v2WiK9Zd1F6leWhDRwGwu39PuT9Wd+xrzA41cM7KBKDeqDQYQ==",
+  "success": true,
+  "projectFilePath": "/Users/Elduwani/dev/fsharp/fsharp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/Elduwani/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
